@@ -1,5 +1,6 @@
 # Presupuesto-PC
-# Mi Configuración  
+# Mi Configuración
+
 
 ## PC1  
 
@@ -36,7 +37,3 @@
 
 
 - **TOTAL (Impuestos incluidos):** **778,23€**  
-                |   |   |   |   |   |   |   |   |   |
-| | **SOCKET**                   | Procesador Intel socket LGA 1200                            | -           | -             | [Ver más](URL_DEL_PRODUCTO) |  |   |   |   |   |   |   |   |   |   |
-| | **PROCESADOR** *             | [Intel Core i5-10400F 2.90 GHz](URL_DEL_PRODUCTO)          | 1           | 113,99€       | [Ver más](URL_DEL_PRODUCTO) |   |   |   |   |   |   |   |   |   |   |
-| | **PLACA BASE** *             | [ASUS Prime H510M-A R2.0](URL_DEL_PRODUCTO)                | 1           | 91,98€        | [Ver más](URL_DEL_PRODUCTO) |   |   |   |   |   |   |   |   |   |   |
