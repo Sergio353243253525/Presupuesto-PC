@@ -1,6 +1,6 @@
 # Presupuesto-PC
 # Mi Configuración
-
+![Descripción de la imagen](imagen.png)
 
 ## PC1  
 
